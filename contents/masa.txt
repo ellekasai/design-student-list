@@ -1,0 +1,13 @@
+MY name: Masayuki Matsuda
+
+Nation: Japan
+Age: 38
+Occupation: electrical work in factory
+Langage: Ruby
+describe yourself in one word: Cautious
+Hobby: surffing
+drink: coffee
+smoke: vepe 
+favorites food: noodle
+social media link: https://www.instagram.com/masayuki.matsuda.5851/
+
