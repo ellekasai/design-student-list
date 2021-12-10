@@ -1,11 +1,36 @@
-# Name
+#Your name
 Koki Sakai
 
-# Location
-Vancouver, BC
+#Nation
+Japan
 
-# Hobby
+#Age
+27
+
+#Occupation, experience, what you learned
+- Work: Apprentice web developer, Area sales manager
+- Experience: Backpacked cross the States by hitchhike and entire Japan by skatebord
+
+#If you have programming skill or not
+1 year
+
+#Describe yourself in one word
+Adventurous
+
+#Hobby
 - Playing soccer and ukulele
 - Shooting photos
 - Hiking montains
 - Backpacking around the world
+
+#Coffee/Alcohol
+Both
+
+#Smake?
+Never
+
+#Favorites (Food, Movies, Music)
+Sports
+
+#Social media link
+https://www.instagram.com/le_pereza
