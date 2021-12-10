@@ -1,10 +1,32 @@
 # Name
 KENTO HONDA
 
-# Location
+# Nation
 Japan
+
+# Age
+29
+
+# Occupation, experience, what I learned
+Salesperson
+
+# If you have programming skill or Nation
+HTML,CSS,Javascript,Ruby on rails (only a little)
+
+# Describe yourself in one word
+Beggar
 
 # Hobby
 -Listen to music (especially city pop)
 -Watch Korean dramas on Netflix
 -Travel overseas
+
+# Coffee / Alcohol
+Only Coffee
+
+# Favorites (Food,Movies,Music)
+Ramen, 007: From Russia With Love ,City-pop
+
+# Social media link
+https://twitter.com/KEATEA2111
+
