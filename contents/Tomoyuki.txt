@@ -1,0 +1,32 @@
+//Your name
+//Tomoyuki Fujii
+
+//Nation
+//Japan
+
+//Age
+//25
+
+//Occupation, experience, what you learned
+//Japanese economics
+
+//If you have programming skill or not
+//Not
+
+//Describe yourself in one word
+//Polite
+
+//Hobby
+//Listening to Music
+
+//Coffee/Alcohol
+//Coffee
+
+//Smake?
+//No
+
+//Favorites (Food, Movies, Music)
+//An apple
+
+//Social media link
+//https://www.instagram.com/fujii_japan/
