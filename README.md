@@ -1,2 +1,3 @@
 # design-student-list
-This is for Pre-WMAD lesson :)
+
+https://ellekasai.github.io/design-student-list/
